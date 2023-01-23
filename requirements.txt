@@ -1,2 +1,2 @@
 lxml==4.6.5
-spotipy==2.9.0
+spotipy==2.22.1
